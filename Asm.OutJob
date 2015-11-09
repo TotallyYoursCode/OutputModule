@@ -4,7 +4,7 @@ Version=1.0
 [OutputGroup1]
 Name=Asm.OutJob
 Description=
-TargetOutputMedium=Asm
+TargetOutputMedium=Assembly order
 IncludedInRelease=0
 TargetPrinter=Foxit Reader PDF Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
@@ -78,7 +78,7 @@ OutputType4=Schematic Print
 OutputName4=Schematic Prints
 OutputDocumentPath4=
 OutputVariantName4=
-OutputEnabled4=1
+OutputEnabled4=0
 OutputEnabled4_OutputMedium1=0
 OutputEnabled4_OutputMedium2=1
 OutputEnabled4_OutputMedium3=0
@@ -440,7 +440,7 @@ OutputType17=BOM_PartType
 OutputName17=Bill of Materials
 OutputDocumentPath17=
 OutputVariantName17=
-OutputEnabled17=1
+OutputEnabled17=0
 OutputEnabled17_OutputMedium1=0
 OutputEnabled17_OutputMedium2=6
 OutputEnabled17_OutputMedium3=0
